@@ -5,8 +5,7 @@
 [forms]
   enabled = false
 
-[build.processing]
-  skip_processing = true
+
 
 
 [[redirects]]
